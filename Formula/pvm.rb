@@ -4,7 +4,7 @@ class Pvm < Formula
   desc "PHP Version Manager (comme fvm pour Flutter)"
   homepage "https://github.com/KalybosPro/pvm"
   url "https://github.com/KalybosPro/pvm/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "1d1383fafcc21edaa150a52e45f17740545a99f72a137794bbde13a0e20419ac"
   license "MIT"
 
   depends_on "node"
