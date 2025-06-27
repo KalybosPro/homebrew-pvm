@@ -1,6 +1,6 @@
 // pvm.js - PHP Version Manager CLI (global)
 
-// #!/usr/bin/env node
+//  #!/usr/bin/env node
 
 const fs = require('fs');
 const path = require('path');
