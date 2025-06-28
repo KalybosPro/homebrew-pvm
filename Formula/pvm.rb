@@ -3,8 +3,8 @@ require "language/node"
 class Pvm < Formula
   desc "PHP Version Manager (comme fvm pour Flutter)"
   homepage "https://github.com/KalybosPro/pvm"
-  url "https://github.com/KalybosPro/pvm/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "b417bb74a6c8394b7587fd4d12382ea42ccc13ad7f372a89304af75fc70cd3ec"
+  url "https://github.com/KalybosPro/pvm/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "570c889ca461d832b8d342560188474b97dea852a37e83bc4842166ae3fbd4a7"
   license "MIT"
 
   depends_on "node"
